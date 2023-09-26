@@ -136,3 +136,8 @@ body {
     background-size: cover; 
     background-position: center; 
 }
+
+
+#myAudio {
+    display: none;
+}
